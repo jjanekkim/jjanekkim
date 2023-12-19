@@ -14,7 +14,7 @@ Continued learning is my goal, and I'm excited to grow and contribute to the dyn
 - 🌱 I'm actively honing my skills in Python, SQL, and broadening my expertise in Data Science!
 - 😺 I'm a BIG cat lover!
 - ☕️ I enjoy brewing coffee.
-- 😊 Connect with me on LinkedIn: www.linkedin.com/in/janekim045
+- 😊 Connect with me on [LinkedIn](www.linkedin.com/in/janekim045)
 <!--
 **jjanekkim/jjanekkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
