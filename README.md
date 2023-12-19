@@ -1,5 +1,20 @@
-### Hi there 👋
+### Hi, I'm Jane! 👋
 
+![Jane](https://github.com/jjanekkim/jjanekkim/assets/131236137/7e43e5c9-1229-4857-b2c2-cb90a26bc6d9)
+
+🌺 About Me:
+
+Discovering the world of data science began with a YouTuber sharing her life as a data analyst, sparking my curiosity about data's endless possibilities. Starting with a Coursera data analyst course, I dived deeper into a data science bootcamp.
+
+During the bootcamp, machine learning caught my attention—seeing data predict outcomes was eye-opening. This motivated me to pursue further studies, and now, having completed the bootcamp, I'm eager to enhance my skills in Python, SQL, and Machine Learning.
+
+Continued learning is my goal, and I'm excited to grow and contribute to the dynamic field of data science.
+
+- 🔭 I’m currently working on projects to showcase my skills.
+- 🌱 I'm actively honing my skills in Python, SQL, and broadening my expertise in Data Science!
+- 😺 I'm a BIG cat lover!
+- ☕️ I enjoy brewing coffee.
+- 😊 Connect with me on LinkedIn: www.linkedin.com/in/janekim045
 <!--
 **jjanekkim/jjanekkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
