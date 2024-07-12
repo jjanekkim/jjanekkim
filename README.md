@@ -10,8 +10,8 @@ During the bootcamp, machine learning caught my attention—seeing data predict 
 
 Continued learning is my goal, and I'm excited to grow and contribute to the dynamic field of data science.
 
-- 🔭 I’m currently working on projects to showcase my skills.
-- 🌱 I'm actively honing my skills in Python, SQL, and broadening my expertise in Data Science!
+- 💻 I’m currently working on two projects (gathering data using web scraping techniques and analyzing data to help a small business) to showcase my skills.
+- 🌱 I'm actively honing my Python and SQL skills and broadening my Data Science expertise!
 - 😺 I'm a BIG cat lover!
 - ☕️ I enjoy brewing coffee.
 - 😊 Connect with me on [LinkedIn](www.linkedin.com/in/janekim045)
