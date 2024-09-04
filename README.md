@@ -10,11 +10,11 @@ During the bootcamp, machine learning caught my attention—seeing data predict 
 
 Continued learning is my goal, and I'm excited to grow and contribute to the dynamic field of data science.
 
-- 💻 I’m currently working on two projects (gathering data using web scraping techniques and analyzing data to help a small business) to showcase my skills.
+- 💻 I’m currently working as a Freelance Data Analyst.
 - 🌱 I'm actively honing my Python and SQL skills and broadening my Data Science expertise!
 - 😺 I'm a BIG cat lover!
 - ☕️ I enjoy brewing coffee.
-- 😊 Connect with me on [LinkedIn](www.linkedin.com/in/janekim045)
+- 😊 You can connect with me on LinkedIn!
 <!--
 **jjanekkim/jjanekkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
