@@ -4,17 +4,23 @@
 
 🌺 About Me:
 
-Discovering the world of data science began with a YouTuber sharing her life as a data analyst, sparking my curiosity about data's endless possibilities. Starting with a Coursera data analyst course, I dived deeper into a data science bootcamp.
+"Data science is amazing because it answers the positive questions about the world." This quote from my instructor during an introductory Data Science course at Learning Fuze inspired me to dive into the field. I attended the full bootcamp and completed it in January 2024.
 
-During the bootcamp, machine learning caught my attention—seeing data predict outcomes was eye-opening. This motivated me to pursue further studies, and now, having completed the bootcamp, I'm eager to enhance my skills in Python, SQL, and Machine Learning.
+My favorite part of data science is data cleaning. Yes, I actually enjoy cleaning data! Although it's repetitive and ongoing—since each time I think I'm done, I find new issues to address—I find the process of identifying outliers, validating data, and filling in missing values incredibly satisfying. Many would agree that much of data work feels like janitorial tasks, but to me, it's fun because so many techniques can dramatically improve model performance.
 
-Continued learning is my goal, and I'm excited to grow and contribute to the dynamic field of data science.
+Currently, I’m working as a freelance data analyst, helping small businesses and startups gain insights from their data. I also recently completed an internship as a data scientist at a startup, where I researched key Natural Language Processing (NLP) topics to determine the best models for named entity recognition, relevance ranking, and grammar checking.
 
-- 💻 I’m currently working as a Freelance Data Analyst.
-- 🌱 I'm actively honing my Python and SQL skills and broadening my Data Science expertise!
+One of the projects I found particularly exciting was analyzing the presidential debate. It was fascinating to work with the data, uncover interesting words, and analyze sentiment scores. If you want to look at the project, please click [here](https://github.com/jjanekkim/presidential-debate2024).
+
+In my free time, I like working on Kaggle projects to add to my GitHub portfolio.
+
+Below are some fun facts about me!
+
+- ⭐️ Skills I have: Python, SQL, Tableau, Data Analysis, Machine Learning
+- 🪻 My favorite flower is lavender. 
 - 😺 I'm a BIG cat lover!
 - ☕️ I enjoy brewing coffee.
-- 😊 You can connect with me on LinkedIn!
+- 🦦 Otters are adorable and I love watching them on YouTube.
 <!--
 **jjanekkim/jjanekkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
